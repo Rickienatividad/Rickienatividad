@@ -1,3 +1,1 @@
-# Hey There!
 
-I'm an aspiring software developer. I'm enrolled in Actualize Coding Bootcamp and working my way through their curriculum. It's been a challenging, yet rewarding experience thus far. I'm working on learning and applying Ruby and the Ruby on Rails framework to create fullstack applications. I've spent time exploring the designing and implementation of databases on the back end as well as tying it together with functioning front end designs. I'm early into my journey, but looking forward to adding to my repertoire to create more projects that are both rewarding to myself and, hopefully, appealing to others.
